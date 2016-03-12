@@ -24,7 +24,7 @@ class partiesList {
       name: 1
     };
     this.orderProperty = '1';
-    this.searchText = 'parties-list.component.js';
+    this.searchText = '';
 
     this.helpers({
       parties: this._partiesCollection,

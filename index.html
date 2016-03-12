@@ -1,8 +1,44 @@
+
 <head>
+  <title>Awaken Voting System</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <base href="/">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body layout="column">
-<socially></socially>
+<socially>
+
+
+<div ng-app="socially" ng-strict-di="">
+  <login-buttons></login-buttons>
+  <h1>
+    <a href="/parties">Home</a>
+  </h1>
+
+
+    <ul class="users">List of users
+      <li ng-repeat="users in users">
+        <!-- <span>{{users.ID}}</span> -->
+        <p>{{users.email}}</p>
+      </li>
+    </ul>
+    
+  Search: <input ng-model="query">
+  Sort by:
+  <select ng-model="orderProp">
+    <option value="name">Alphabetical</option>
+    <option value="age">Newest</option>
+  </select>
+
+  <ul class="phones">
+    <li ng-repeat="phone in phones | filter:query | orderBy:orderProp">
+      <span>{{phone.name}}</span>
+      <p>{{phone.snippet}}</p>
+    </li>
+  </ul>
+
+
+</div>
+</socially>
+
 </body>

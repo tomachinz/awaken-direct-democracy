@@ -25,4 +25,3 @@ angular.module("socially.browser").directive('login', function() {
       };
     }
   }
-});

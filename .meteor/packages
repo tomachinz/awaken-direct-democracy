@@ -47,3 +47,4 @@ accounts-google
 service-configuration
 accounts-ui
 angular-meteor-auth
+bozhao:link-accounts

@@ -220,12 +220,11 @@ class partiesList {
       }
     }
   }
-
   defineMapProperties() {
     this.map = {
       center: {
-        latitude: 45,
-        longitude: -73
+        latitude: -41.2442852,
+        longitude: 174.6217708
       },
       options: {
         maxZoom: 10,

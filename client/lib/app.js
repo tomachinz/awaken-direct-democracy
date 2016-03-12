@@ -11,6 +11,8 @@ let modulesToLoad =  [
   'angular-sortable-view'
 ];
 
+
+
 if (Meteor.isCordova) {
   modulesToLoad = modulesToLoad.concat(['socially.mobile']);
 }

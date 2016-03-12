@@ -13,6 +13,8 @@ angular.module("socially.browser").directive('login', function() {
 
       this.error = '';
 
+      // Call Meteor.linkWith[ServiceName] in place instead of loginWith. (client side)
+
       this.login = () => {
         Meteor.loginWithPassword(this.credentials.email, this.credentials.password, (err) => {
           if (err) {
@@ -23,5 +25,23 @@ angular.module("socially.browser").directive('login', function() {
           }
         });
       };
+
+      // GOOGLE oauth
+      this.signInWithGoogle = () => {
+        // ON THE CLIENT:
+        // Meteor.signInWithGoogle ({}, function (error, mergedUserId) {
+        Meteor.linkWithGoogle ({}, function (error, mergedUserId) {
+
+          // mergedUsers is set if a merge occured
+          if (mergedUserId) {
+            console.log(mergedUserId, 'merged with', Meteor.userId());
+          }
+        });
+      };
+
+
+
+
     }
   }
+});

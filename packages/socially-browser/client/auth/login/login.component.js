@@ -40,6 +40,19 @@ angular.module("socially.browser").directive('login', function() {
       };
 
 
+      // FAECEBOOK oauth
+      this.signInWithFacebook = () => {
+        // ON THE CLIENT:
+        // Meteor.signInWithGoogle ({}, function (error, mergedUserId) {
+        Meteor.linkWithFacebook({}, function (error, mergedUserId) {
+
+          // mergedUsers is set if a merge occured
+          if (mergedUserId) {
+            console.log(mergedUserId, 'merged with', Meteor.userId());
+          }
+        });
+      };
+
 
 
     }

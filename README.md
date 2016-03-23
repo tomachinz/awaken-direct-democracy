@@ -1,3 +1,45 @@
+Instructions for Mac OS X
+
+To get this server setup you'll need to:
+
+- Install NodeJS
+http://nodejs.org/
+
+- Install NPM
+https://docs.npmjs.com/cli/install
+
+- Install Meteor
+https://www.meteor.com/
+
+- Intsall Git
+https://git-scm.com/download/mac
+
+Open a Terminal, and type pull down the repo from github:
+
+git clone https://github.com/tomachinz/awaken-direct-democracy
+
+This will clone the repo into "awaken-direct-democracy" folder in the current directory. Then:
+
+cd awaken-direct-democracy
+meteor
+
+Currently the github repo is missing the API keys and secrets, I still need to figure out what to do with:
+
+You also mite need to:
+
+brew install imagemagick
+
+Hopefully you will then see:
+
+=> App running at: http://localhost:3000/
+
+
+NB: This project is based on the project below...
+
+
+
+
+
 # meteor-angular-socially - [Tutorial's site](http://angular-meteor.com/tutorialIntro)
 angular-meteor example and tutorial app.
 
@@ -55,10 +97,7 @@ Submit Pull Requests to improve this readme, add examples, write quick tutorials
 Add new steps to angular-meteor-socially tutorial.
 Look for issues with a [help wanted label](https://github.com/Urigo/meteor-angular-socially/labels/help%20wanted) and help with those.
 Randomly pick submitted Pull Request and review them, offering advice and helping others improve their skills.
-Submit Pull Request or open issues with proposals for [angular-meteor](https://github.com/Urigo/angular-meteor) 
+Submit Pull Request or open issues with proposals for [angular-meteor](https://github.com/Urigo/angular-meteor)
 
 ### Anything else?
 [Open an issue](https://github.com/Urigo/meteor-angular-socially/issues/new), it's free.
-
-
-

@@ -1,23 +1,23 @@
 
 <head>
-  <title>Awaken Voting System</title>
+  <title>Awaken Voting System /awaken.html</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <base href="/">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body layout="column">
-<socially>
+<awaken>
 
-<div ng-app="socially" ng-strict-di="">
-  <login-buttons></login-buttons>
+<div ng-app="awaken" ng-strict-di="">
+  <login-buttons>login</login-buttons>
   <h1>
-    <a href="/parties">Home</a>
+    <a href="/parties">Parties</a>
   </h1>
 
 
     <ul class="users">List of users
       <li ng-repeat="users in users">
-        <!-- <span>{{users.ID}}</span> -->
+        <span>{{users.ID}}</span>
         <p>{{users.email}}</p>
       </li>
     </ul>
@@ -38,6 +38,6 @@
 
 
 </div>
-</socially>
+</awaken>
 
 </body>

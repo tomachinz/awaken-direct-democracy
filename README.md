@@ -1,3 +1,6 @@
+Awaken is based on the meteor-angular-socially tutorial project, and currently contains plenty of old code from it.
+
+
 # meteor-angular-socially - [Tutorial's site](http://angular-meteor.com/tutorialIntro)
 angular-meteor example and tutorial app.
 
@@ -55,10 +58,7 @@ Submit Pull Requests to improve this readme, add examples, write quick tutorials
 Add new steps to angular-meteor-socially tutorial.
 Look for issues with a [help wanted label](https://github.com/Urigo/meteor-angular-socially/labels/help%20wanted) and help with those.
 Randomly pick submitted Pull Request and review them, offering advice and helping others improve their skills.
-Submit Pull Request or open issues with proposals for [angular-meteor](https://github.com/Urigo/angular-meteor) 
+Submit Pull Request or open issues with proposals for [angular-meteor](https://github.com/Urigo/angular-meteor)
 
 ### Anything else?
 [Open an issue](https://github.com/Urigo/meteor-angular-socially/issues/new), it's free.
-
-
-

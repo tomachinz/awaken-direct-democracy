@@ -7,6 +7,7 @@
 meteor-base             # Packages every Meteor app needs to have
 mobile-experience       # Packages for a great mobile UX
 mongo                   # The database Meteor supports right now
+<<<<<<< HEAD
 session                 # Client-side reactive dictionary for your app
 jquery                  # Helpful client-side library
 tracker                 # Meteor's client-side reactive programming library
@@ -16,10 +17,25 @@ es5-shim                # ECMAScript 5 compatibility for older browsers.
 
 angular@1.3.1
 angularui:angular-ui-router
+=======
+reactive-var            # Reactive variable for tracker
+jquery                  # Helpful client-side library
+tracker                 # Meteor's client-side reactive programming library
+
+standard-minifier-css   # CSS minifier run for production mode
+standard-minifier-js    # JS minifier run for production mode
+es5-shim                # ECMAScript 5 compatibility for older browsers.
+
+urigo:static-templates
+sanjo:jasmine
+velocity:html-reporter
+velocity:console-reporter
+>>>>>>> Urigo/master
 accounts-password
 dotansimha:accounts-ui-angular
 accounts-facebook
 accounts-twitter
+<<<<<<< HEAD
 angularutils:pagination
 tmeasday:publish-counts
 check
@@ -40,3 +56,14 @@ socially-browser
 socially-mobile
 okland:accounts-phone
 pbastowski:angular2-now@1.1.6
+=======
+tmeasday:publish-counts
+check
+email
+less
+planettraining:material-design-icons
+jalik:ufs
+jalik:ufs-gridfs
+mys:accounts-phone
+mys:typescript-ng-annotate
+>>>>>>> Urigo/master

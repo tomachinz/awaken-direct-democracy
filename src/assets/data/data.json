@@ -1,0 +1,794 @@
+{
+
+  "schedule": [
+    {
+      "date": "2047-05-17",
+      "groups": [
+        {
+          "time": "8:00 am",
+          "sessions": [
+            {
+              "name": "Breakfast",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Main hallway",
+              "tracks": ["Food"]
+            }
+          ]
+        },
+        {
+          "time": "9:00 am",
+          "sessions": [
+            {
+              "name": "Introduction to Appcamp.io",
+              "location": "Room 2203",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Ellie Elephant"],
+              "timeStart": "9:00 am",
+              "timeEnd": "9:30 am",
+              "tracks": ["Ionic"]
+            },
+            {
+              "name": "Getting started with Ionic",
+              "location": "Room 2202",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Ted Turtle"],
+              "timeStart": "9:30 am",
+              "timeEnd": "9:45 am",
+              "tracks": ["Ionic"]
+            },
+            {
+              "name": "Tooling for Ionic",
+              "location": "Room 2201",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Rachel Rabbit"],
+              "timeStart": "9:45 am",
+              "timeEnd": "10:00 am",
+              "tracks": ["Tooling"]
+            }
+          ]
+        },
+        {
+          "time": "10:00 am",
+          "sessions": [
+            {
+              "name": "Migrating to Ionic2",
+              "location": "Room 2201",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Eva Eagle", "Lionel Lion"],
+              "timeStart": "10:00 am",
+              "timeEnd": "10:15 am",
+              "tracks": ["Ionic"]
+            },
+            {
+              "name": "The evolution of Ionicons",
+              "location": "Room 2202",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Isabella Iguana", "Eva Eagle"],
+              "timeStart": "10:15 am",
+              "timeEnd": "10:30 am",
+              "tracks": ["Design"]
+            },
+            {
+              "name": "Ionic.io Services",
+              "location": "Room 2202",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Charlie Cheetah"],
+              "timeStart": "10:30 am",
+              "timeEnd": "11:00 am",
+              "tracks": ["Services"]
+            }
+          ]
+        },
+        {
+          "time": "11:00 am",
+          "sessions": [
+            {
+              "name": "Ionic Workshop",
+              "location": "Room 2201",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Karl Kitten", "Lionel Lion"],
+              "timeStart": "11:00 am",
+              "timeEnd": "11:45 am",
+              "tracks": ["Workshop"]
+            },
+            {
+              "name": "Community Interaction",
+              "location": "Room 2203",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Lionel Lion", "Gino Giraffe"],
+              "timeStart": "11:30 am",
+              "timeEnd": "11:50 am",
+              "tracks": ["Communication"]
+            },
+            {
+              "name": "Navigation in Ionic",
+              "location": "Room 2203",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Rachel Rabbit", "Eva Eagle"],
+              "timeStart": "11:30 am",
+              "timeEnd": "12:00 pm",
+              "tracks": ["Navigation"]
+            }
+          ]
+        },
+        {
+          "time": "12:00 pm",
+          "sessions": [
+            {
+              "name": "Lunch",
+              "location": "Auditorium",
+              "description": "Come grab lunch with all the Ionic fanatics and talk all things Ionic",
+              "timeStart": "12:00 pm",
+              "timeEnd": "1:00 pm",
+              "tracks": ["Food"]
+            }
+          ]
+        },
+        {
+          "time": "1:00 pm",
+          "sessions": [
+            {
+              "name": "Ionic in the Enterprise",
+              "location": "Room 2201",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Paul Puppy"],
+              "timeStart": "1:00 pm",
+              "timeEnd": "1:15 pm",
+              "tracks": ["Communication"]
+            },
+            {
+              "name": "Ionic Worldwide",
+              "location": "Room 2201",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Gino Giraffe"],
+              "timeStart": "1:15 pm",
+              "timeEnd": "1:30 pm",
+              "tracks": ["Communication"]
+            },
+            {
+              "name": "The Ionic package service",
+              "location": "Room 2203",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Molly Mouse", "Burt Bear"],
+              "timeStart": "1:30 pm",
+              "timeEnd": "2:00 pm",
+              "tracks": ["Services"]
+            }
+          ]
+        },
+        {
+          "time": "2:00 pm",
+          "sessions": [
+            {
+              "name": "Push Notifications in Ionic",
+              "location": "Room 2202",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Burt Bear", "Charlie Cheetah"],
+              "timeStart": "2:00 pm",
+              "timeEnd": "2:30 pm",
+              "tracks": ["Services"]
+            },
+            {
+              "name": "Ionic Documentation",
+              "location": "Room 2202",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Donald Duck"],
+              "timeStart": "2:30 pm",
+              "timeEnd": "2:45 pm",
+              "tracks": ["Documentation"]
+            },
+            {
+              "name": "UX planning in Ionic",
+              "location": "Room 2203",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Isabella Iguana", "Ellie Elephant"],
+              "timeStart": "2:45 pm",
+              "timeEnd": "3:00 pm",
+              "tracks": ["Design"]
+            }
+          ]
+        },
+        {
+          "time": "3:00",
+          "sessions": [
+            {
+              "name": "Directives in Ionic",
+              "location": "Room 2201",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Ted Turtle"],
+              "timeStart": "3:00 pm",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Angular"]
+            },
+            {
+              "name": "Mobile States",
+              "location": "Room 2202",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Rachel Rabbit"],
+              "timeStart": "3:30 pm",
+              "timeEnd": "3:45 pm",
+              "tracks": ["Navigation"]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "candidate-list": [
+    [
+      {
+        "electorate": "Auckland Central",
+        "winning-candidate": "Kaye, Nikki (Nat)",
+        "2nd-place": "Ardern, Jacinda (Lab)",
+        "margin": 600
+      },
+      {
+        "electorate": "Bay of Plenty",
+        "winning-candidate": "Muller, Todd (Nat)",
+        "2nd-place": "Wilson, Clare (Lab)",
+        "margin": "15,096"
+      },
+      {
+        "electorate": "Botany",
+        "winning-candidate": "Ross, Jami-Lee (Nat)",
+        "2nd-place": "Mamedov, Tofik (Lab)",
+        "margin": "13,495"
+      },
+      {
+        "electorate": "Christchurch Central",
+        "winning-candidate": "Wagner, Nicky (Nat)",
+        "2nd-place": "Milne, Tony (Lab)",
+        "margin": "2,420"
+      },
+      {
+        "electorate": "Christchurch East",
+        "winning-candidate": "Williams, Poto (Lab)",
+        "2nd-place": "Hayes, Jo (Nat)",
+        "margin": "4,073"
+      },
+      {
+        "electorate": "Clutha-Southland",
+        "winning-candidate": "Barclay, Todd (Nat)",
+        "2nd-place": "Craig, Liz (Lab)",
+        "margin": "14,886"
+      },
+      {
+        "electorate": "Coromandel",
+        "winning-candidate": "Simpson, Scott (Nat)",
+        "2nd-place": "Delahunty, Catherine (Gp)",
+        "margin": "15,801"
+      },
+      {
+        "electorate": "Dunedin North",
+        "winning-candidate": "Clark, David (Lab)",
+        "2nd-place": "Woodhouse, Michael (Nat)",
+        "margin": "5,917"
+      },
+      {
+        "electorate": "Dunedin South",
+        "winning-candidate": "Curran, Clare (Lab)",
+        "2nd-place": "Walker, Hamish (Nat)",
+        "margin": "3,858"
+      },
+      {
+        "electorate": "East Coast",
+        "winning-candidate": "Tolley, Anne (Nat)",
+        "2nd-place": "Mackey, Moana (Lab)",
+        "margin": "7,934"
+      },
+      {
+        "electorate": "East Coast Bays",
+        "winning-candidate": "Mccully, Murray (Nat)",
+        "2nd-place": "Craig, Colin (Cnsp)",
+        "margin": "15,034"
+      },
+      {
+        "electorate": "Epsom",
+        "winning-candidate": "Seymour, David (Act)",
+        "2nd-place": "Goldsmith, Paul (Nat)",
+        "margin": "4,250"
+      },
+      {
+        "electorate": "Hamilton East",
+        "winning-candidate": "Bennett, David (Nat)",
+        "2nd-place": "Allen, Cliff (Lab)",
+        "margin": "10,199"
+      },
+      {
+        "electorate": "Hamilton West",
+        "winning-candidate": "Macindoe, Tim (Nat)",
+        "2nd-place": "Moroney, Sue (Lab)",
+        "margin": "5,784"
+      },
+      {
+        "electorate": "Helensville",
+        "winning-candidate": "Key, John (Nat)",
+        "2nd-place": "Graham, Kennedy (Gp)",
+        "margin": "18,287"
+      },
+      {
+        "electorate": "Hunua",
+        "winning-candidate": "Bayly, Andrew (Nat)",
+        "2nd-place": "Williams, Arena (Lab)",
+        "margin": "17,376"
+      },
+      {
+        "electorate": "Hutt South",
+        "winning-candidate": "Mallard, Trevor (Lab)",
+        "2nd-place": "Bishop, Chris (Nat)",
+        "margin": 709
+      },
+      {
+        "electorate": "Ilam",
+        "winning-candidate": "Brownlee, Gerry (Nat)",
+        "2nd-place": "Dann, James Macbeth (Lab)",
+        "margin": "11,898"
+      },
+      {
+        "electorate": "Invercargill",
+        "winning-candidate": "Dowie, Sarah (Nat)",
+        "2nd-place": "Soper, Lesley (Lab)",
+        "margin": "7,482"
+      },
+      {
+        "electorate": "Kaikōura",
+        "winning-candidate": "Smith, Stuart (Nat)",
+        "2nd-place": "Walker, Janette (Lab)",
+        "margin": "12,570"
+      },
+      {
+        "electorate": "Kelston",
+        "winning-candidate": "Sepuloni, Carmel (Lab)",
+        "2nd-place": "Penk, Christopher (Nat)",
+        "margin": "5,367"
+      },
+      {
+        "electorate": "Mana",
+        "winning-candidate": "Faafoi, Kris (Lab)",
+        "2nd-place": "Parata, Hekia (Nat)",
+        "margin": "7,953"
+      },
+      {
+        "electorate": "Māngere",
+        "winning-candidate": "Sio, Sua William (Lab)",
+        "2nd-place": "Turner, Misa Fia (Nat)",
+        "margin": "14,933"
+      },
+      {
+        "electorate": "Manukau East",
+        "winning-candidate": "Salesa, Jenny (Lab)",
+        "2nd-place": "Bakshi, Kanwal (Nat)",
+        "margin": "13,254"
+      },
+      {
+        "electorate": "Manurewa",
+        "winning-candidate": "Wall, Louisa Hareruia (Lab)",
+        "2nd-place": "Brown, Simeon (Nat)",
+        "margin": "6,402"
+      },
+      {
+        "electorate": "Maungakiekie",
+        "winning-candidate": "Lotu-Iiga, Peseta Sam (Nat)",
+        "2nd-place": "Beaumont, Carol (Lab)",
+        "margin": "2,348"
+      },
+      {
+        "electorate": "Mt Albert",
+        "winning-candidate": "Shearer, David (Lab)",
+        "2nd-place": "Lee, Melissa (Nat)",
+        "margin": "10,656"
+      },
+      {
+        "electorate": "Mt Roskill",
+        "winning-candidate": "Goff, Phil (Lab)",
+        "2nd-place": "Parmar, Parmjeet (Nat)",
+        "margin": "8,091"
+      },
+      {
+        "electorate": "Napier",
+        "winning-candidate": "Nash, Stuart (Lab)",
+        "2nd-place": "Walford, Wayne (Nat)",
+        "margin": "3,850"
+      },
+      {
+        "electorate": "Nelson",
+        "winning-candidate": "Smith, Nick (Nat)",
+        "2nd-place": "Street, Maryan (Lab)",
+        "margin": "7,605"
+      },
+      {
+        "electorate": "New Lynn",
+        "winning-candidate": "Cunliffe, David (Lab)",
+        "2nd-place": "Groser, Tim (Nat)",
+        "margin": "4,557"
+      },
+      {
+        "electorate": "New Plymouth",
+        "winning-candidate": "Young, Jonathan (Nat)",
+        "2nd-place": "Little, Andrew (Lab)",
+        "margin": "9,778"
+      },
+      {
+        "electorate": "North Shore",
+        "winning-candidate": "Barry, Maggie (Nat)",
+        "2nd-place": "Szabó, Claire (Lab)",
+        "margin": "16,503"
+      },
+      {
+        "electorate": "Northcote",
+        "winning-candidate": "Coleman, Jonathan (Nat)",
+        "2nd-place": "Hills, Richard (Lab)",
+        "margin": "9,664"
+      },
+      {
+        "electorate": "Northland",
+        "winning-candidate": "Sabin, Mike (Nat)",
+        "2nd-place": "Prime, Willow-Jean (Lab)",
+        "margin": "9,300"
+      },
+      {
+        "electorate": "Ōhāriu",
+        "winning-candidate": "Dunne, Peter (Ufnz)",
+        "2nd-place": "Andersen, Virginia (Lab)",
+        "margin": 710
+      },
+      {
+        "electorate": "Ōtaki",
+        "winning-candidate": "Guy, Nathan (Nat)",
+        "2nd-place": "Mccann, Rob (Lab)",
+        "margin": "7,782"
+      },
+      {
+        "electorate": "Pakuranga",
+        "winning-candidate": "Williamson, Maurice (Nat)",
+        "2nd-place": "Kirker, Barry (Lab)",
+        "margin": "12,867"
+      },
+      {
+        "electorate": "Palmerston North",
+        "winning-candidate": "Lees-Galloway, Iain (Lab)",
+        "2nd-place": "Naylor, Jono (Nat)",
+        "margin": "2,212"
+      },
+      {
+        "electorate": "Papakura",
+        "winning-candidate": "Collins, Judith (Nat)",
+        "2nd-place": "Mika, Jerome (Lab)",
+        "margin": "5,119"
+      },
+      {
+        "electorate": "Port Hills",
+        "winning-candidate": "Dyson, Ruth (Lab)",
+        "2nd-place": "Korako, Nuk (Nat)",
+        "margin": "2,228"
+      },
+      {
+        "electorate": "Rangitata",
+        "winning-candidate": "Goodhew, Jo (Nat)",
+        "2nd-place": "Gibson, Steven (Lab)",
+        "margin": "14,107"
+      },
+      {
+        "electorate": "Rangitīkei",
+        "winning-candidate": "Mckelvie, Ian (Nat)",
+        "2nd-place": "Russell, Deborah (Lab)",
+        "margin": "11,060"
+      },
+      {
+        "electorate": "Rimutaka",
+        "winning-candidate": "Hipkins, Chris (Lab)",
+        "2nd-place": "Holden, Lewis (Nat)",
+        "margin": "6,664"
+      },
+      {
+        "electorate": "Rodney",
+        "winning-candidate": "Mitchell, Mark (Nat)",
+        "2nd-place": "Bolt, Eric (Lab)",
+        "margin": "20,230"
+      },
+      {
+        "electorate": "Rongotai",
+        "winning-candidate": "King, Annette (Lab)",
+        "2nd-place": "Finlayson, Christopher (Nat)",
+        "margin": "9,617"
+      },
+      {
+        "electorate": "Rotorua",
+        "winning-candidate": "Mcclay, Todd (Nat)",
+        "2nd-place": "Coffey, Tamati Gerald (Lab)",
+        "margin": "7,418"
+      },
+      {
+        "electorate": "Selwyn",
+        "winning-candidate": "Adams, Amy (Nat)",
+        "2nd-place": "Hill, Peter Selwyn (Gp)",
+        "margin": "20,561"
+      },
+      {
+        "electorate": "Tāmaki",
+        "winning-candidate": "O'connor, Simon (Nat)",
+        "2nd-place": "Wu, Chao-Fu (Lab)",
+        "margin": "20,421"
+      },
+      {
+        "electorate": "Taranaki-King Country",
+        "winning-candidate": "Kuriger, Barbara (Nat)",
+        "2nd-place": "Gaylor, Penny (Lab)",
+        "margin": "16,773"
+      },
+      {
+        "electorate": "Taupō",
+        "winning-candidate": "Upston, Louise (Nat)",
+        "2nd-place": "Strange, Jamie (Lab)",
+        "margin": "15,046"
+      },
+      {
+        "electorate": "Tauranga",
+        "winning-candidate": "Bridges, Simon (Nat)",
+        "2nd-place": "Jones, Rachel (Lab)",
+        "margin": "14,842"
+      },
+      {
+        "electorate": "Te Atatū",
+        "winning-candidate": "Twyford, Phil (Lab)",
+        "2nd-place": "Ngaro, Alfred (Nat)",
+        "margin": "2,813"
+      },
+      {
+        "electorate": "Tukituki",
+        "winning-candidate": "Foss, Craig (Nat)",
+        "2nd-place": "Lorck, Anna (Lab)",
+        "margin": "6,490"
+      },
+      {
+        "electorate": "Upper Harbour",
+        "winning-candidate": "Bennett, Paula (Nat)",
+        "2nd-place": "Retzlaff, Hermann (Lab)",
+        "margin": "9,692"
+      },
+      {
+        "electorate": "Waikato",
+        "winning-candidate": "Tisch, Lindsay (Nat)",
+        "2nd-place": "Greer, Christine (Lab)",
+        "margin": "16,169"
+      },
+      {
+        "electorate": "Waimakariri",
+        "winning-candidate": "Doocey, Matt (Nat)",
+        "2nd-place": "Cosgrove, Clayton (Lab)",
+        "margin": "2,506"
+      },
+      {
+        "electorate": "Wairarapa",
+        "winning-candidate": "Scott, Alastair (Nat)",
+        "2nd-place": "Mcanulty, Kieran (Lab)",
+        "margin": "6,771"
+      },
+      {
+        "electorate": "Waitaki",
+        "winning-candidate": "Dean, Jacqui (Nat)",
+        "2nd-place": "Alexander, Glenda (Lab)",
+        "margin": "16,668"
+      },
+      {
+        "electorate": "Wellington Central",
+        "winning-candidate": "Robertson, Grant (Lab)",
+        "2nd-place": "Foster-Bell, Paul (Nat)",
+        "margin": "8,267"
+      },
+      {
+        "electorate": "West Coast-Tasman",
+        "winning-candidate": "O'connor, Damien Peter (Lab)",
+        "2nd-place": "Pugh, Maureen (Nat)",
+        "margin": "4,094"
+      },
+      {
+        "electorate": "Whanganui",
+        "winning-candidate": "Borrows, Chester (Nat)",
+        "2nd-place": "Mcdouall, Hamish (Lab)",
+        "margin": "4,505"
+      },
+      {
+        "electorate": "Whangarei",
+        "winning-candidate": "Reti, Shane (Nat)",
+        "2nd-place": "Ellis, Kelly (Lab)",
+        "margin": "13,169"
+      },
+      {
+        "electorate": "Wigram",
+        "winning-candidate": "Woods, Megan (Lab)",
+        "2nd-place": "Varley, Karl (Nat)",
+        "margin": "3,330"
+      },
+      {
+        "electorate": "Hauraki-Waikato",
+        "winning-candidate": "Mahuta, Nanaia (Lab)",
+        "2nd-place": "Cullen, Susan (Maor)",
+        "margin": "7,695"
+      },
+      {
+        "electorate": "Ikaroa-Rāwhiti",
+        "winning-candidate": "Whaitiri, Meka (Lab)",
+        "2nd-place": "Nikora, Te Hāmua (Mana)",
+        "margin": "4,673"
+      },
+      {
+        "electorate": "Tāmaki Makaurau",
+        "winning-candidate": "Henare, Peeni (Lab)",
+        "2nd-place": "Mclean, Rangi (Maor)",
+        "margin": "1,462"
+      },
+      {
+        "electorate": "Te Tai Hauāuru",
+        "winning-candidate": "Rurawhe, Adrian (Lab)",
+        "2nd-place": "Mckenzie, Chris (Maor)",
+        "margin": "1,554"
+      },
+      {
+        "electorate": "Te Tai Tokerau",
+        "winning-candidate": "Davis, Kelvin (Lab)",
+        "2nd-place": "Harawira, Hone (Mana)",
+        "margin": 743
+      },
+      {
+        "electorate": "Te Tai Tonga",
+        "winning-candidate": "Tirikatene, Rino (Lab)",
+        "2nd-place": "Button, Ngaire (Maor)",
+        "margin": "3,554"
+      },
+      {
+        "electorate": "Waiariki",
+        "winning-candidate": "Flavell, Te Ururoa James (Maor)",
+        "2nd-place": "Waititi, Rawiri (Lab)",
+        "margin": "3,889"
+      }
+    ]
+  ],
+
+  "speakers": [
+    {
+      "name": "Burty Bear",
+      "profilePic": "assets/img/speakers/bear.jpg",
+      "twitter": "ionicframework",
+      "about": "Burt is a Bear, and likes beer.",
+      "location": "Everywhere",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "electorate": "Auckland Central",
+      "winning-candidate": "Kaye, Nikki (Nat)",
+      "2nd-place": "Ardern, Jacinda (Lab)",
+      "margin": 600
+    },
+    {
+      "name": "Charlie Cheetah",
+      "profilePic": "assets/img/speakers/cheetah.jpg",
+      "twitter": "ionicframework",
+      "about": "Charlie is a Cheetah.",
+      "location": "Everywhere",
+      "email": "charlie@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Donald Duck",
+      "profilePic": "assets/img/speakers/duck.jpg",
+      "twitter": "ionicframework",
+      "about": "Donald is a Duck.",
+      "location": "Everywhere",
+      "email": "donald@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Eva Eagle",
+      "profilePic": "assets/img/speakers/eagle.jpg",
+      "twitter": "ionicframework",
+      "about": "Eva is an Eagle.",
+      "location": "Everywhere",
+      "email": "eva@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Ellie Elephant",
+      "profilePic": "assets/img/speakers/elephant.jpg",
+      "twitter": "ionicframework",
+      "about": "Ellie is an Elephant.",
+      "location": "Everywhere",
+      "email": "ellie@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Gino Giraffe",
+      "profilePic": "assets/img/speakers/giraffe.jpg",
+      "twitter": "ionicframework",
+      "about": "Gino is a Giraffe.",
+      "location": "Everywhere",
+      "email": "gino@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Isabella Iguana",
+      "profilePic": "assets/img/speakers/iguana.jpg",
+      "twitter": "ionicframework",
+      "about": "Isabella is an Iguana.",
+      "location": "Everywhere",
+      "email": "isabella@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Karl Kitten",
+      "profilePic": "assets/img/speakers/kitten.jpg",
+      "twitter": "ionicframework",
+      "about": "Karl is a Kitten.",
+      "location": "Everywhere",
+      "email": "karl@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Lionel Lion",
+      "profilePic": "assets/img/speakers/lion.jpg",
+      "twitter": "ionicframework",
+      "about": "Lionel is a Lion.",
+      "location": "Everywhere",
+      "email": "lionel@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Molly Mouse",
+      "profilePic": "assets/img/speakers/mouse.jpg",
+      "twitter": "ionicframework",
+      "about": "Molly is a Mouse.",
+      "location": "Everywhere",
+      "email": "molly@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Paul Puppy",
+      "profilePic": "assets/img/speakers/puppy.jpg",
+      "twitter": "ionicframework",
+      "about": "Paul is a Puppy.",
+      "location": "Everywhere",
+      "email": "paul@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Rachel Rabbit",
+      "profilePic": "assets/img/speakers/rabbit.jpg",
+      "twitter": "ionicframework",
+      "about": "Rachel is a Rabbit.",
+      "location": "Everywhere",
+      "email": "rachel@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Ted Turtle",
+      "profilePic": "assets/img/speakers/turtle.jpg",
+      "twitter": "ionicframework",
+      "about": "Ted is a Turtle.",
+      "location": "Everywhere",
+      "email": "ted@example.com",
+      "phone": "+1-541-754-3010"
+    }
+  ],
+
+
+  "map": [
+    {
+      "name": "The Beehive",
+      "lat": -41.278349,
+      "lng": 174.776688,
+      "center": true
+    },
+    {
+      "name": "Matterhorn",
+      "lat": -41.292316,
+      "lng": 174.775959
+    },
+    {
+      "name": "Bodega",
+      "lat": -41.292590,
+      "lng": 174.773210
+    }
+  ]
+
+}

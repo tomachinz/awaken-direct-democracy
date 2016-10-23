@@ -1,6 +1,6 @@
 {
   "name": "awaken-direct-democracy",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "This is the functional skeleton / working mock up of a disruptive app to increase voter turnout and participation driven at the start by just one person - Tom Atkinson in New Zealand - after watching in horror the signing of the TPPA in Auckland February 4, and the horror of the US Presidential Elections 2016! Written in a beautiful modern framework. Ionic is an open source SDK based on Cordova that enables developers to build high quality mobile apps with HTML, CSS, and JavaScript. www.awaken.guru github.com/tomachinz/awaken-direct-democracy",
   "keywords": ["direct", "democracy", "open-source", "blockchain", "ethereum"],
   "license": "Apache-2.0",

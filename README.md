@@ -1,6 +1,16 @@
 # The Awaken Direct Democracy Project :: Open Source Government
 Concept stage storyboards for a mobile web-app to enable NZ citizens cast private and secure digital votes into a public block-chain backed parliament. Vote in elections, acts and bills – on legislation past current and future! Currently seeking NodeJS developers.
 
+## Currently we are merging two codebases:
+
++the "awaken wireframes" shown in an iframe below
+++root url is: https://www.awaken.guru/wp-content/uploads/awaken-wireframes/index.html#/
++the "awaken github/npm/ionic" package at:
+++https://github.com/tomachinz/awaken-direct-democracy
+++https://www.npmjs.com/package/awaken-direct-democracy
+This is a working HTML demo that uses a Cordova-based Javascript platform called Ionic Creator wireframe demo app ID 1e395f0d8e2f.
+
+
 ## How to replicate the server
 ### Linux / Unix / Mac OS
 

@@ -1,6 +1,12 @@
 # The Awaken Direct Democracy Project :: Open Source Government
 Concept stage storyboards for a mobile web-app to enable NZ citizens cast private and secure digital votes into a public block-chain backed parliament. Vote in elections, acts and bills – on legislation past current and future! Currently seeking NodeJS developers.
 
+## How to replicate the server
+### Linux / Unix / Mac OS
+
+git clone https://github.com/tomachinz/awaken-direct-democracy
+
+
 ## About the project - goals:
 
 _“You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.”

@@ -6,6 +6,8 @@
   </ion-navbar>
 </ion-header>
 
+
+
 <ion-content no-bounce>
   <ion-slides [options]="{pager: true}" (ionWillChange)="onSlideChangeStart($event)">
     <ion-slide *ngFor="let slide of slides">      <button ion-button (click)="startApp()" color="primary">Skip</button>

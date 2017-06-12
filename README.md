@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/tomachinz/awaken-direct-democracy.png?label=ready&title=Ready)](https://waffle.io/tomachinz/awaken-direct-democracy?utm_source=badge)
 # Ionic 2 Conference Application
 
 This is purely a demo of Ionic 2 with TypeScript. It is still in development.

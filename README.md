@@ -14,7 +14,7 @@ This is a working HTML demo that uses a Cordova-based Javascript platform called
 ## How to replicate the server
 ### Linux / Unix / Mac OS
 
-git clone https://github.com/tomachinz/awaken-direct-democracy
+git clone -b AwakenOnlineVotingSystem https://github.com/tomachinz/awaken-direct-democracy
 
 
 ## About the project - goals:
